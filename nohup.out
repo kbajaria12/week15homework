@@ -1,0 +1,199 @@
+[I 12:36:15.516 NotebookApp] The port 8888 is already in use, trying another port.
+[I 12:36:15.517 NotebookApp] The port 8889 is already in use, trying another port.
+[I 12:36:15.568 NotebookApp] JupyterLab alpha preview extension loaded from /Users/mcilwaw/anaconda3/lib/python3.6/site-packages/jupyterlab
+JupyterLab v0.27.0
+Known labextensions:
+[I 12:36:15.573 NotebookApp] Running the core application with no additional extensions or settings
+[I 12:36:15.585 NotebookApp] Serving notebooks from local directory: /Users/mcilwaw/GitHub/week15homework
+[I 12:36:15.585 NotebookApp] 0 active kernels 
+[I 12:36:15.586 NotebookApp] The Jupyter Notebook is running at: http://localhost:8890/?token=40c427404a431fa19cc3ed5b22f0d7fbd8cb06bd30330d32
+[I 12:36:15.586 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:36:15.588 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8890/?token=40c427404a431fa19cc3ed5b22f0d7fbd8cb06bd30330d32
+[I 12:36:16.003 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 12:36:23.399 NotebookApp] Creating new notebook in 
+[I 12:36:24.863 NotebookApp] Kernel started: 19cfbccc-7021-4a1a-a3d9-a3823c6bf076
+[I 12:36:27.316 NotebookApp] Adapting to protocol v5.1 for kernel 19cfbccc-7021-4a1a-a3d9-a3823c6bf076
+[I 12:38:24.627 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:46:24.644 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:46:45.874 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 12:48:24.639 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 12:50:24.655 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 12:52:24.693 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 12:56:25.080 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 12:58:25.135 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:00:25.136 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:02:25.138 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:04:25.149 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:08:25.340 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:12:25.349 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:14:25.353 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:18:25.983 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:20:26.806 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:22:26.812 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:22:50.318 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:24:26.813 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:26:26.830 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:28:26.828 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:30:26.845 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:36:28.942 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:38:28.947 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:40:28.966 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:42:28.961 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 13:42:42.279 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:06:28.693 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:08:29.039 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:10:29.041 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:14:29.917 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:16:30.413 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:18:30.458 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:20:30.455 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:22:30.461 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:24:30.647 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:26:30.647 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:30:30.724 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:34:30.960 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:36:31.194 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:38:31.199 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:40:31.198 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:42:31.206 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:46:32.180 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:48:32.701 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:52:33.139 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:54:33.139 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 14:58:33.139 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:00:33.312 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:02:33.316 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:04:33.335 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:04:56.649 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:06:33.318 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:10:34.157 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:12:34.177 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:14:34.180 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:16:34.183 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:18:34.194 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:20:35.049 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:22:35.037 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:24:35.038 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:28:35.841 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:29:13.780 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:29:57.742 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:56:02.632 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 15:56:06.469 NotebookApp] Kernel shutdown: 19cfbccc-7021-4a1a-a3d9-a3823c6bf076
+[I 16:07:05.248 NotebookApp] The port 8888 is already in use, trying another port.
+[I 16:07:05.258 NotebookApp] The port 8889 is already in use, trying another port.
+[I 16:07:05.260 NotebookApp] The port 8890 is already in use, trying another port.
+[I 16:07:05.490 NotebookApp] JupyterLab alpha preview extension loaded from /Users/mcilwaw/anaconda3/lib/python3.6/site-packages/jupyterlab
+JupyterLab v0.27.0
+Known labextensions:
+[I 16:07:05.496 NotebookApp] Running the core application with no additional extensions or settings
+[I 16:07:05.515 NotebookApp] Serving notebooks from local directory: /Users/mcilwaw/GitHub/week15homework
+[I 16:07:05.516 NotebookApp] 0 active kernels 
+[I 16:07:05.516 NotebookApp] The Jupyter Notebook is running at: http://localhost:8891/?token=aa83889425f8f7a1dc27d3d6c7bbd8294e9e26b3cfbba181
+[I 16:07:05.516 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:07:05.525 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8891/?token=aa83889425f8f7a1dc27d3d6c7bbd8294e9e26b3cfbba181
+[I 16:07:06.341 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 16:07:13.075 NotebookApp] Kernel started: a132ff96-c97f-4edf-a136-363d0efa1311
+[I 16:07:17.400 NotebookApp] Adapting to protocol v5.1 for kernel a132ff96-c97f-4edf-a136-363d0efa1311
+[I 19:19:27.832 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 19:23:28.536 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 19:25:28.570 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 19:27:28.572 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 19:31:28.667 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 19:32:19.767 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 19:33:28.693 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 19:45:30.965 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 19:47:30.944 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 19:49:31.685 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 19:51:31.613 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 19:53:27.010 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 19:59:31.582 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 20:01:31.586 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 20:03:31.603 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 20:05:31.589 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 20:07:31.921 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 20:11:31.936 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 20:13:31.924 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 20:15:32.017 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 20:17:31.962 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 20:19:31.953 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 20:21:31.959 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 20:25:33.654 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 20:26:09.993 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 19:54:18.076 NotebookApp] Kernel shutdown: a132ff96-c97f-4edf-a136-363d0efa1311
+[W 19:54:23.724 NotebookApp] 404 GET /favicon.ico (::1) 40.71ms referer=None
+[I 20:37:05.598 NotebookApp] The port 8888 is already in use, trying another port.
+[I 20:37:05.599 NotebookApp] The port 8889 is already in use, trying another port.
+[I 20:37:05.600 NotebookApp] The port 8890 is already in use, trying another port.
+[I 20:37:05.601 NotebookApp] The port 8891 is already in use, trying another port.
+[I 20:37:05.648 NotebookApp] JupyterLab alpha preview extension loaded from /Users/mcilwaw/anaconda3/lib/python3.6/site-packages/jupyterlab
+JupyterLab v0.27.0
+Known labextensions:
+[I 20:37:05.653 NotebookApp] Running the core application with no additional extensions or settings
+[I 20:37:05.664 NotebookApp] Serving notebooks from local directory: /Users/mcilwaw/GitHub/week15homework
+[I 20:37:05.664 NotebookApp] 0 active kernels 
+[I 20:37:05.664 NotebookApp] The Jupyter Notebook is running at: http://localhost:8892/?token=fd4af512a93a3fdef9c7c04667a7b28a11b8238d1bcaa831
+[I 20:37:05.664 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 20:37:05.667 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8892/?token=fd4af512a93a3fdef9c7c04667a7b28a11b8238d1bcaa831
+[I 20:37:06.799 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[I 20:37:18.051 NotebookApp] Kernel started: 203dc759-7cfd-4d7f-8804-9bf176f7b22e
+[I 20:37:22.757 NotebookApp] Adapting to protocol v5.1 for kernel 203dc759-7cfd-4d7f-8804-9bf176f7b22e
+[I 11:55:32.004 NotebookApp] Kernel shutdown: 203dc759-7cfd-4d7f-8804-9bf176f7b22e
+[W 11:55:34.832 NotebookApp] 404 GET /favicon.ico (127.0.0.1) 17.99ms referer=None
+[I 12:36:38.536 NotebookApp] The port 8888 is already in use, trying another port.
+[I 12:36:38.537 NotebookApp] The port 8889 is already in use, trying another port.
+[I 12:36:38.539 NotebookApp] The port 8890 is already in use, trying another port.
+[I 12:36:38.540 NotebookApp] The port 8891 is already in use, trying another port.
+[I 12:36:38.542 NotebookApp] The port 8892 is already in use, trying another port.
+[I 12:36:38.565 NotebookApp] Serving notebooks from local directory: /Users/williammcilwain/GitHub/week15homework
+[I 12:36:38.565 NotebookApp] 0 active kernels
+[I 12:36:38.565 NotebookApp] The Jupyter Notebook is running at:
+[I 12:36:38.565 NotebookApp] http://localhost:8822/?token=80a9963b955d56e0433c57465e5b269c163491c2181f4b47
+[I 12:36:38.565 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:36:38.570 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8822/?token=80a9963b955d56e0433c57465e5b269c163491c2181f4b47
+[I 12:36:39.013 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 12:36:44.025 NotebookApp] Notebook jupyter_prep.ipynb is not trusted
+[I 12:36:45.019 NotebookApp] Kernel started: 6a497fe6-df58-47f5-b560-ac4c3c9f89e3
+[W 12:36:45.150 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180223123637 (::1) 71.26ms referer=http://localhost:8822/notebooks/jupyter_prep.ipynb
+[I 12:36:47.212 NotebookApp] Adapting to protocol v5.1 for kernel 6a497fe6-df58-47f5-b560-ac4c3c9f89e3
+[I 12:38:44.916 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 12:42:22.871 NotebookApp] Starting buffering for 6a497fe6-df58-47f5-b560-ac4c3c9f89e3:D9B5CCD581764D12A3EA0545AD4E57BB
+[W 12:42:24.463 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180223123637 (127.0.0.1) 4.63ms referer=http://localhost:8822/notebooks/jupyter_prep.ipynb
+[I 12:42:24.539 NotebookApp] Adapting to protocol v5.1 for kernel 6a497fe6-df58-47f5-b560-ac4c3c9f89e3
+[I 12:46:04.221 NotebookApp] Starting buffering for 6a497fe6-df58-47f5-b560-ac4c3c9f89e3:2D75D4389AA140ED8B583B12F37495B0
+[I 12:46:04.637 NotebookApp] Kernel shutdown: 6a497fe6-df58-47f5-b560-ac4c3c9f89e3
+[C 12:46:37.764 NotebookApp] received signal 15, stopping
+[I 12:46:37.766 NotebookApp] Shutting down 0 kernels
+[I 15:45:07.575 NotebookApp] Serving notebooks from local directory: /Users/williammcilwain/GitHub/week15homework
+[I 15:45:07.578 NotebookApp] 0 active kernels
+[I 15:45:07.578 NotebookApp] The Jupyter Notebook is running at:
+[I 15:45:07.578 NotebookApp] http://localhost:8888/?token=daeff38678588f1052cf96e2eac66778eea1fdd40a25c71a
+[I 15:45:07.578 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:45:07.581 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=daeff38678588f1052cf96e2eac66778eea1fdd40a25c71a
+[I 15:45:08.029 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[W 15:45:13.015 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180223154506 (127.0.0.1) 19.12ms referer=http://localhost:8888/notebooks/jupyter_prep.ipynb
+[I 15:45:13.918 NotebookApp] Kernel started: 8f3f6276-ba64-4cae-9753-213ca4111877
+[I 15:45:15.596 NotebookApp] Adapting to protocol v5.1 for kernel 8f3f6276-ba64-4cae-9753-213ca4111877
+[I 16:23:18.533 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 16:25:18.471 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 16:31:18.483 NotebookApp] Saving file at /jupyter_prep.ipynb
+[I 16:33:18.486 NotebookApp] Saving file at /jupyter_prep.ipynb
